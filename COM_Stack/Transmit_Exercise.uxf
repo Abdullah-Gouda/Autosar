@@ -5,7 +5,7 @@
     <id>UMLGeneric</id>
     <coordinates>
       <x>136</x>
-      <y>128</y>
+      <y>72</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -18,7 +18,7 @@ bg=#adc8db</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>360</x>
-      <y>128</y>
+      <y>72</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -31,7 +31,7 @@ bg=#adc8db</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>640</x>
-      <y>128</y>
+      <y>72</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -44,7 +44,7 @@ bg=#adc8db</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>936</x>
-      <y>120</y>
+      <y>64</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -57,7 +57,7 @@ bg=#adc8db</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1224</x>
-      <y>120</y>
+      <y>64</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -70,7 +70,7 @@ bg=#adc8db</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1520</x>
-      <y>120</y>
+      <y>64</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -83,7 +83,7 @@ bg=#adc8db</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>168</x>
-      <y>160</y>
+      <y>104</y>
       <w>24</w>
       <h>952</h>
     </coordinates>
@@ -94,7 +94,7 @@ bg=#adc8db</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>392</x>
-      <y>160</y>
+      <y>104</y>
       <w>24</w>
       <h>960</h>
     </coordinates>
@@ -106,7 +106,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>672</x>
-      <y>160</y>
+      <y>104</y>
       <w>24</w>
       <h>968</h>
     </coordinates>
@@ -117,7 +117,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>968</x>
-      <y>152</y>
+      <y>96</y>
       <w>24</w>
       <h>992</h>
     </coordinates>
@@ -128,7 +128,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1256</x>
-      <y>152</y>
+      <y>96</y>
       <w>24</w>
       <h>1024</h>
     </coordinates>
@@ -139,7 +139,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1552</x>
-      <y>152</y>
+      <y>96</y>
       <w>24</w>
       <h>1160</h>
     </coordinates>
@@ -150,7 +150,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>168</x>
-      <y>184</y>
+      <y>128</y>
       <w>240</w>
       <h>32</h>
     </coordinates>
@@ -162,7 +162,7 @@ Rte_Write_SignalName(&amp;Signal)</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>392</x>
-      <y>200</y>
+      <y>144</y>
       <w>16</w>
       <h>88</h>
     </coordinates>
@@ -174,7 +174,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>400</x>
-      <y>200</y>
+      <y>144</y>
       <w>288</w>
       <h>40</h>
     </coordinates>
@@ -187,7 +187,7 @@ const void* SignalDataPtr)</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>400</x>
-      <y>248</y>
+      <y>192</y>
       <w>288</w>
       <h>32</h>
     </coordinates>
@@ -199,7 +199,7 @@ E_OK</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>168</x>
-      <y>264</y>
+      <y>208</y>
       <w>240</w>
       <h>32</h>
     </coordinates>
@@ -211,7 +211,7 @@ RTE_E_OK</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>672</x>
-      <y>216</y>
+      <y>160</y>
       <w>16</w>
       <h>56</h>
     </coordinates>
@@ -223,7 +223,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>680</x>
-      <y>352</y>
+      <y>296</y>
       <w>304</w>
       <h>40</h>
     </coordinates>
@@ -236,7 +236,7 @@ PduR_ComTransmit
     <id>Relation</id>
     <coordinates>
       <x>680</x>
-      <y>856</y>
+      <y>800</y>
       <w>304</w>
       <h>32</h>
     </coordinates>
@@ -248,7 +248,7 @@ E_OK</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>672</x>
-      <y>336</y>
+      <y>280</y>
       <w>16</w>
       <h>568</h>
     </coordinates>
@@ -260,7 +260,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>976</x>
-      <y>384</y>
+      <y>328</y>
       <w>296</w>
       <h>40</h>
     </coordinates>
@@ -273,7 +273,7 @@ CanIf_Transmit
     <id>UMLGeneric</id>
     <coordinates>
       <x>1256</x>
-      <y>400</y>
+      <y>344</y>
       <w>16</w>
       <h>472</h>
     </coordinates>
@@ -285,7 +285,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1264</x>
-      <y>432</y>
+      <y>376</y>
       <w>304</w>
       <h>40</h>
     </coordinates>
@@ -298,7 +298,7 @@ const Can_PduType*)</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1784</x>
-      <y>120</y>
+      <y>64</y>
       <w>96</w>
       <h>40</h>
     </coordinates>
@@ -311,7 +311,7 @@ bg=#adc8db</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1824</x>
-      <y>152</y>
+      <y>96</y>
       <w>24</w>
       <h>1160</h>
     </coordinates>
@@ -322,7 +322,7 @@ bg=#adc8db</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1560</x>
-      <y>528</y>
+      <y>472</y>
       <w>280</w>
       <h>32</h>
     </coordinates>
@@ -334,7 +334,7 @@ Copy L-PDU into CAN Hardware()</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1552</x>
-      <y>448</y>
+      <y>392</y>
       <w>16</w>
       <h>256</h>
     </coordinates>
@@ -346,7 +346,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1560</x>
-      <y>560</y>
+      <y>504</y>
       <w>280</w>
       <h>32</h>
     </coordinates>
@@ -358,7 +358,7 @@ Copy L-PDU into CAN Hardware()</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1824</x>
-      <y>544</y>
+      <y>488</y>
       <w>16</w>
       <h>48</h>
     </coordinates>
@@ -370,7 +370,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1264</x>
-      <y>584</y>
+      <y>528</y>
       <w>304</w>
       <h>32</h>
     </coordinates>
@@ -382,7 +382,7 @@ Can_Write()</panel_attributes>
     <id>UMLFrame</id>
     <coordinates>
       <x>856</x>
-      <y>496</y>
+      <y>440</y>
       <w>1080</w>
       <h>336</h>
     </coordinates>
@@ -405,7 +405,7 @@ Can_Write()</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>856</x>
-      <y>520</y>
+      <y>464</y>
       <w>232</w>
       <h>24</h>
     </coordinates>
@@ -418,7 +418,7 @@ layer=3</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>856</x>
-      <y>640</y>
+      <y>584</y>
       <w>240</w>
       <h>24</h>
     </coordinates>
@@ -431,7 +431,7 @@ layer=3</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1264</x>
-      <y>664</y>
+      <y>608</y>
       <w>304</w>
       <h>32</h>
     </coordinates>
@@ -443,7 +443,7 @@ Can_Write()</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1264</x>
-      <y>736</y>
+      <y>680</y>
       <w>16</w>
       <h>24</h>
     </coordinates>
@@ -455,7 +455,7 @@ bg=#dbd1ad</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1264</x>
-      <y>712</y>
+      <y>656</y>
       <w>216</w>
       <h>40</h>
     </coordinates>
@@ -467,7 +467,7 @@ Insert L-PDU in transmit buffer()</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>976</x>
-      <y>840</y>
+      <y>784</y>
       <w>296</w>
       <h>32</h>
     </coordinates>
@@ -479,7 +479,7 @@ CanIf_Transmit()</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>968</x>
-      <y>368</y>
+      <y>312</y>
       <w>16</w>
       <h>512</h>
     </coordinates>
@@ -491,7 +491,7 @@ layer=2</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>0</x>
-      <y>128</y>
+      <y>72</y>
       <w>80</w>
       <h>40</h>
     </coordinates>
@@ -504,7 +504,7 @@ bg=#adc8db</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>32</x>
-      <y>160</y>
+      <y>104</y>
       <w>24</w>
       <h>952</h>
     </coordinates>
@@ -515,7 +515,7 @@ bg=#adc8db</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>32</x>
-      <y>320</y>
+      <y>264</y>
       <w>656</w>
       <h>32</h>
     </coordinates>
@@ -527,7 +527,7 @@ Com_MainFunctionTx()</panel_attributes>
     <id>UMLNote</id>
     <coordinates>
       <x>480</x>
-      <y>56</y>
+      <y>0</y>
       <w>168</w>
       <h>40</h>
     </coordinates>
@@ -539,7 +539,7 @@ bg=yellow</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>496</x>
-      <y>88</y>
+      <y>32</y>
       <w>80</w>
       <h>192</h>
     </coordinates>
@@ -551,7 +551,7 @@ bg=yellow</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1824</x>
-      <y>920</y>
+      <y>864</y>
       <w>16</w>
       <h>232</h>
     </coordinates>
@@ -563,7 +563,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1560</x>
-      <y>904</y>
+      <y>848</y>
       <w>280</w>
       <h>32</h>
     </coordinates>
@@ -575,7 +575,7 @@ Transmit Interrupt()</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1552</x>
-      <y>920</y>
+      <y>864</y>
       <w>16</w>
       <h>216</h>
     </coordinates>
@@ -587,7 +587,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1264</x>
-      <y>920</y>
+      <y>864</y>
       <w>304</w>
       <h>32</h>
     </coordinates>
@@ -599,7 +599,7 @@ CanIf_TxConfirmation(PduIdType)</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>1256</x>
-      <y>936</y>
+      <y>880</y>
       <w>16</w>
       <h>184</h>
     </coordinates>
@@ -611,7 +611,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>976</x>
-      <y>936</y>
+      <y>880</y>
       <w>296</w>
       <h>40</h>
     </coordinates>
@@ -624,7 +624,7 @@ Std_ReturnType)</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>680</x>
-      <y>960</y>
+      <y>904</y>
       <w>304</w>
       <h>32</h>
     </coordinates>
@@ -636,7 +636,7 @@ Com_TxConfirmation(PduIdType, Std_ReturnType)</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>968</x>
-      <y>952</y>
+      <y>896</y>
       <w>16</w>
       <h>152</h>
     </coordinates>
@@ -648,7 +648,7 @@ layer=2</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>672</x>
-      <y>976</y>
+      <y>920</y>
       <w>16</w>
       <h>112</h>
     </coordinates>
@@ -660,7 +660,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>400</x>
-      <y>984</y>
+      <y>928</y>
       <w>288</w>
       <h>32</h>
     </coordinates>
@@ -672,7 +672,7 @@ Rte_COMCbkTAck_signal()</panel_attributes>
     <id>UMLGeneric</id>
     <coordinates>
       <x>392</x>
-      <y>1000</y>
+      <y>944</y>
       <w>16</w>
       <h>56</h>
     </coordinates>
@@ -684,7 +684,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>400</x>
-      <y>1024</y>
+      <y>968</y>
       <w>288</w>
       <h>32</h>
     </coordinates>
@@ -696,7 +696,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>680</x>
-      <y>1040</y>
+      <y>984</y>
       <w>304</w>
       <h>32</h>
     </coordinates>
@@ -708,7 +708,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>976</x>
-      <y>1056</y>
+      <y>1000</y>
       <w>296</w>
       <h>32</h>
     </coordinates>
@@ -720,7 +720,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1272</x>
-      <y>1072</y>
+      <y>1016</y>
       <w>296</w>
       <h>32</h>
     </coordinates>
@@ -732,7 +732,7 @@ layer=2</panel_attributes>
     <id>Relation</id>
     <coordinates>
       <x>1560</x>
-      <y>1096</y>
+      <y>1040</y>
       <w>280</w>
       <h>32</h>
     </coordinates>

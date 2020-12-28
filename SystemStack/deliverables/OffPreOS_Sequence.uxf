@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>7</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>245</x>
+      <y>49</y>
+      <w>105</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*EcuM*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>560</x>
+      <y>77</y>
+      <w>21</w>
+      <h>469</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;650.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>294</x>
+      <y>77</y>
+      <w>21</w>
+      <h>476</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;660.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>511</x>
+      <y>49</y>
+      <w>105</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*BswM*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>728</x>
+      <y>49</y>
+      <w>105</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*SchM*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>924</x>
+      <y>49</y>
+      <w>105</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*OS*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>105</y>
+      <w>273</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+BswM_Deinit()</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>133</y>
+      <w>273</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;370.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>294</x>
+      <y>105</y>
+      <w>14</w>
+      <h>336</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>560</x>
+      <y>119</y>
+      <w>14</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>770</x>
+      <y>77</y>
+      <w>21</w>
+      <h>469</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;650.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>182</y>
+      <w>483</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+SchM_Deinit()</panel_attributes>
+    <additional_attributes>670.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>217</y>
+      <w>483</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;670.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>770</x>
+      <y>196</y>
+      <w>14</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>301</x>
+      <y>273</y>
+      <w>14</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>
+bg=#dbd1ad</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>245</y>
+      <w>196</w>
+      <h>49</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_GetPendingWakeupEvents
+(EcuM_WakeupSourceType)
+</panel_attributes>
+    <additional_attributes>20.0;40.0;50.0;40.0;50.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>259</x>
+      <y>308</y>
+      <w>364</w>
+      <h>77</h>
+    </coordinates>
+    <panel_attributes>*opt. [Pending wakeup event]*</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>329</y>
+      <w>217</w>
+      <h>35</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_SelectShutdownTarge (RESET)
+</panel_attributes>
+    <additional_attributes>20.0;30.0;50.0;30.0;50.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>301</x>
+      <y>350</y>
+      <w>14</w>
+      <h>21</h>
+    </coordinates>
+    <panel_attributes>
+bg=#dbd1ad</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>63</x>
+      <y>266</y>
+      <w>175</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes>This action shall only be carried out
+when pending wakeup events were
+detected to allow an immediate
+startup
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>231</x>
+      <y>301</y>
+      <w>42</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=..
+</panel_attributes>
+    <additional_attributes>10.0;10.0;40.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>973</x>
+      <y>77</y>
+      <w>21</w>
+      <h>469</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;650.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>301</x>
+      <y>406</y>
+      <w>686</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+ShutdownOS()</panel_attributes>
+    <additional_attributes>960.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>973</x>
+      <y>420</y>
+      <w>14</w>
+      <h>28</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>

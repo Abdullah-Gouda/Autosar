@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>6</zoom_level>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>264</x>
+      <y>54</y>
+      <w>78</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>*Startup_Code*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>294</x>
+      <y>78</y>
+      <w>18</w>
+      <h>768</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;1260.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>678</x>
+      <y>120</y>
+      <w>12</w>
+      <h>654</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>300</x>
+      <y>108</y>
+      <w>390</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_Init()</panel_attributes>
+    <additional_attributes>630.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>156</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;370.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>636</x>
+      <y>54</y>
+      <w>90</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*EcuM*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>678</x>
+      <y>78</y>
+      <w>18</w>
+      <h>762</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;1250.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>294</x>
+      <y>90</y>
+      <w>12</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>426</x>
+      <y>54</y>
+      <w>90</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*OS*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>870</x>
+      <y>54</y>
+      <w>84</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>*Integration_Code*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>906</x>
+      <y>78</y>
+      <w>18</w>
+      <h>762</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;1250.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>132</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_AL_SetProgrammableInterrupts()</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>906</x>
+      <y>132</y>
+      <w>12</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>180</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_AL_DriverInitZero()</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>636</x>
+      <y>126</y>
+      <w>312</w>
+      <h>114</h>
+    </coordinates>
+    <panel_attributes>opt.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>906</x>
+      <y>192</y>
+      <w>12</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>216</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;370.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>252</y>
+      <w>234</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_DeterminePbConfiguration(const
+EcuM_ConfigType*)</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>282</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;370.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>906</x>
+      <y>264</y>
+      <w>12</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>744</x>
+      <y>0</y>
+      <w>126</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Optional activities can be
+switched on or off by
+configuration
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>762</x>
+      <y>30</y>
+      <w>54</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=..
+</panel_attributes>
+    <additional_attributes>10.0;160.0;70.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>312</y>
+      <w>168</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+Check consistency of configuration
+data()
+</panel_attributes>
+    <additional_attributes>20.0;40.0;50.0;40.0;50.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>684</x>
+      <y>336</y>
+      <w>12</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>
+bg=#dbd1ad</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>630</x>
+      <y>360</y>
+      <w>312</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>*opt. [Configuration data inconsistent]*
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>378</y>
+      <w>234</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_ErrorHook
+(ECUM_E_CONFIGURATION_DATA_INCONSISTENT)</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>906</x>
+      <y>390</y>
+      <w>12</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>744</x>
+      <y>408</y>
+      <w>126</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>This call never returns!
+bg=yellow
+layer=3</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>456</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_AL_DriverInitOne()</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>480</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;370.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>906</x>
+      <y>468</y>
+      <w>12</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>630</x>
+      <y>450</y>
+      <w>312</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>opt.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLNote</id>
+    <coordinates>
+      <x>486</x>
+      <y>432</y>
+      <w>126</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>Optional activities can be
+switched on or off by
+configuration
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>606</x>
+      <y>450</y>
+      <w>36</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>lt=..
+</panel_attributes>
+    <additional_attributes>10.0;10.0;40.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>528</y>
+      <w>384</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+Mcu_GetResetReason(Mcu_ResetType)</panel_attributes>
+    <additional_attributes>620.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>1014</x>
+      <y>54</y>
+      <w>90</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Module&gt;&gt;
+*Mcu*
+bg=#adc8db</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1056</x>
+      <y>78</y>
+      <w>18</w>
+      <h>762</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;1250.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>1056</x>
+      <y>540</y>
+      <w>12</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>552</y>
+      <w>384</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;620.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>570</y>
+      <w>150</w>
+      <h>42</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+Map reset reason to wakeup
+source()
+</panel_attributes>
+    <additional_attributes>20.0;40.0;50.0;40.0;50.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>684</x>
+      <y>594</y>
+      <w>12</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>
+bg=#dbd1ad</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>618</y>
+      <w>162</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+Select default shutdown target()</panel_attributes>
+    <additional_attributes>20.0;30.0;50.0;30.0;50.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>684</x>
+      <y>636</y>
+      <w>12</w>
+      <h>18</h>
+    </coordinates>
+    <panel_attributes>
+bg=#dbd1ad</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLFrame</id>
+    <coordinates>
+      <x>624</x>
+      <y>672</y>
+      <w>312</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>opt.</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>678</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+EcuM_LoopDetection()</panel_attributes>
+    <additional_attributes>370.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>684</x>
+      <y>702</y>
+      <w>234</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;.
+</panel_attributes>
+    <additional_attributes>10.0;20.0;370.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>906</x>
+      <y>690</y>
+      <w>12</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>582</x>
+      <y>462</y>
+      <w>60</w>
+      <h>222</h>
+    </coordinates>
+    <panel_attributes>lt=..
+</panel_attributes>
+    <additional_attributes>10.0;10.0;80.0;350.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>462</x>
+      <y>78</y>
+      <w>18</w>
+      <h>768</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;1260.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>468</x>
+      <y>744</y>
+      <w>222</w>
+      <h>24</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;-
+StartOS(ECUM_DEFAULT_APP_MODE)</panel_attributes>
+    <additional_attributes>10.0;20.0;350.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>462</x>
+      <y>756</y>
+      <w>12</w>
+      <h>36</h>
+    </coordinates>
+    <panel_attributes>bg=#dbd1ad
+layer=2</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
